@@ -1,3 +1,3 @@
-##Demo of RoboAdvisor
+## Demo of RoboAdvisor
 
 ![RoboAdvisor](image/assignment.gif)
